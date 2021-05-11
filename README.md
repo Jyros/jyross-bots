@@ -10,3 +10,5 @@ Muhtemelen botları paylaşacağım tarih:
 
 
 ![link](https://media.discordapp.net/attachments/830774767337865216/841689536589201468/unknown.png)
+
+ÜASĞDŞĞPQLRQĞWRLAÜĞFŞSÜASĞDŞĞPQLRQĞWRLAÜĞFŞSÜASĞDŞĞPQLRQĞWRLAÜĞFŞSÜASĞDŞĞPQLRQĞWRLAÜĞFŞS
