@@ -1,11 +1,12 @@
-# jyros-advanced-bots
+# Gelişmiş Bot's
+## Botlar geliyo rez alın
 Botlarını yaptığım bir çok sunucuda kullandığım Discord Moderasyon, Stat, Register, Guard, Database botlarının altyapısı yakında sizlerle :)
 
 
 Muhtemelen botları paylaşacağım tarih:
 
 
-06.05.2021
+10.06.2021
 
 
 
