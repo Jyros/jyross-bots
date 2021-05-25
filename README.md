@@ -1,5 +1,6 @@
 # Gelişmiş Bot's
 ## Botlar geliyo rez alın
+## bitmeye yakın sslerle beraber yollarım xd
 Botlarını yaptığım bir çok sunucuda kullandığım Discord Moderasyon, Stat, Register, Guard, Database botlarının altyapısı yakında sizlerle :)
 
 
