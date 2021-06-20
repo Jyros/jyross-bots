@@ -1,0 +1,19 @@
+{
+  "name": "jyros-moderation",
+  "version": "0.0.1",
+  "description": "discord-advanced-bots",
+  "main": "jyros.js",
+  "scripts": {
+    "start": "node jyros.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}

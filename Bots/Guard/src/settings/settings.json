@@ -1,0 +1,40 @@
+{
+
+"whitelist":[
+"",
+"",
+""
+],
+
+
+"roles":{
+
+"booster":"",
+"jail":""
+},
+
+"channels":{
+
+"logs":{
+
+"kickGuardLog":"",
+"banGuardLog":"",
+"botGuardLog":"",
+"guildGuardLog":"",
+"channelGuardLog":"",
+"roleGuardLog":""
+}
+},
+
+"guard":{
+
+"kick": 1,
+"ban": 1,
+"bot": 1,
+"guild": 1,
+"channel": 1,
+"role": 1
+}
+
+
+}

@@ -1,0 +1,28 @@
+{
+"TOKEN":"",
+"PREFIX":["."],
+"BOT_OWNER":"325134650630471680",
+"GUILD_OWNERS":[""],
+
+"guildID":"",
+"guildLink":"https://discord.gg/jyros",
+
+"embed": {
+"footer":"Developed by Jyros",
+    
+"color":{
+"red":"#ff0000",
+"green":"#0aff00",
+"white":"#ffffff"
+}},
+    
+"BOT":{
+"VOICECHANNEL":"",
+    
+"ACTIVITY":{
+    
+"TYPE":"WATCHING",
+"NAME":["Developed by Jyros","Jyros 💜 Yalnızlık","Yalnızlık 💜 Jyros","birden_fazla_yapın_bu_kısmı_botun_durumudur"],
+"STATUS":"online"
+}}
+}
