@@ -5,9 +5,9 @@ name: "yardım",
 },
 run: async (client, message, args, embed, prefix) => {
 let list = client.commands
-.filter((x) => x.conf.help)
-.sort((a, b) => b.conf.help - a.conf.help)
-.map((x) => `\`${prefix}${x.conf.help}\``)
+.filter((x) => x.conf.name)
+.sort((a, b) => b.conf.name - a.conf.name)
+.map((x) => `\`${prefix}${x.conf.name}\``)
 .join("\n");
 message.channel.send(embed.setDescription(list));
 }
