@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 const config = require("../settings/config.json");
 module.exports = {
 conf: {
-aliases: ["cek","gel","getir"],
-name: "çek",
+aliases: ["git","götür"],
+name: "git",
 },
 run: async (client, message, args) => {
 const embed = new MessageEmbed().setFooter(`${config.embed.footer}`)
