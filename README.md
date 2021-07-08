@@ -1,27 +1,6 @@
 # Jyros | Gelişmiş Discord Botları
 
-## Setup
-
-* Projeyi zip halinde indir.
-* Herhangi bir klasöre zipi çıkart.
-* `Bots` klasörünün içinde botlar bulunuyor. Botların içindeki src/settings klasöründe yer alan `config.json` ve `settings.json` dosyalarını doldur.
-* Terminalden sırasıyla `npm i` ve `node jyros.js` komutlarını kullan.
-* Artık botun hazır! Onu sunudunda kullanabilirsin.
-
-## Proje içinde bulunan altyapılar
-
-* Moderation
-* Guard (3)
-* Voucher
-
-## Önemli Notlar vb.
-
-* yakında
-
-### Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
-* The theme is available as open source under the terms of the [MIT License](https://github.com/Jyros/discord-advanced-bots/blob/main/LICENSE)
-
-### Altyapımı benden habersiz "ben yaptım" tarzı davranışlarda bulunanlar için botların tamamen gelişmiş halini paylaşmadım.
+## 1. Botları alan aldı 2. botlar yolda!!!
 
 ## Jyros 
 
