@@ -2,6 +2,10 @@
 
 ## 1. Botları alan aldı 2. botlar yolda!!!
 
+### Yeni altyapıda neler olacak?
+
+bunu açıklamam için biraz zaman ver.
+
 ## Jyros 
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
