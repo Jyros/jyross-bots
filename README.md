@@ -11,7 +11,7 @@ Moderation:
 * Normal Komutlar (Gelişmiş)
 * Rozet Sistemi (Seviye)
 * Yenilenen Database Sistemi
-Daha Fazlası...
+* Daha Fazlası...
 
 * Registry:
 
@@ -19,7 +19,7 @@ Daha Fazlası...
 * Yeni Gelişmiş Komutlar
 * Normal Komutlar (Gelişmiş)
 * Otomatik Kayıt Sistemi
-Daha Fazlası...
+* Daha Fazlası...
 
 daha fazla açıklama yapmam için biraz zaman ver.
 
