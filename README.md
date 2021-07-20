@@ -4,7 +4,24 @@
 
 ### Yeni altyapıda neler olacak?
 
-bunu açıklamam için biraz zaman ver.
+* Moderation:
+
+Hata Kodları
+Yeni Gelişmiş Komutlar
+Normal Komutlar (Gelişmiş)
+Rozet Sistemi (Seviye)
+Yenilenen Database Sistemi
+Daha Fazlası...
+
+* Registry:
+
+Hata Kodları
+Yeni Gelişmiş Komutlar
+Normal Komutlar (Gelişmiş)
+Otomatik Kayıt Sistemi
+Daha Fazlası...
+
+daha fazla açıklama yapmam için biraz zaman ver.
 
 ## Jyros 
 
