@@ -13,7 +13,7 @@ Moderation:
 * Yenilenen Database Sistemi
 * Daha Fazlası...
 
-* Registry:
+Registry:
 
 * Hata Kodları
 * Yeni Gelişmiş Komutlar
