@@ -1,6 +1,7 @@
 # Jyros | Gelişmiş Discord Botları
 
 ## 1. Botları alan aldı 2. botlar yolda!!!
+# İDDİALI SÖZLER YAZIP PRİM KASİM HAWLİ OLİM TANTOONY KİM ACAR KİM TANIMAM ETMEM! (bu şakaydı herşeyi bu abimlerden öğrendim muck smkldfkmsd)
 
 ### Yeni altyapıda neler olacak?
 
