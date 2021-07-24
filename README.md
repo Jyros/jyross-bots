@@ -1,10 +1,5 @@
 # Jyros | Gelişmiş Discord Botları
 
-## 1. Botları alan aldı 2. botlar yolda!!!
-# İDDİALI SÖZLER YAZIP PRİM KASİM HAWLİ OLİM TANTOONY KİM ACAR KİM TANIMAM ETMEM! (bu şakaydı herşeyi bu abimlerden öğrendim muck smkldfkmsd)
-
-### Yeni altyapıda neler olacak?
-
 Moderation:
 
 * Hata Kodları
@@ -24,7 +19,7 @@ Registry:
 
 daha fazla açıklama yapmam için biraz zaman ver.
 
-## Jyros 
+## Jyross
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 
