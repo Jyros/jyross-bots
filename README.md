@@ -8,13 +8,6 @@ Moderation:
 * Yenilenen Database Sistemi
 * Daha Fazlası...
 
-Registry:
-
-* Hata Kodları
-* Yeni Gelişmiş Komutlar
-* Normal Komutlar (Gelişmiş)
-* Daha Fazlası...
-
 daha fazla açıklama yapmam için biraz zaman ver.
 
 ## Jyross
