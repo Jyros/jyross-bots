@@ -43,6 +43,13 @@ A: Bot yazmayı artık bırakıyorum. Fakat Github ile işim bitmedi. Bu Projede
 ### Q: Daha proje paylaşmayacak mısın?
 A: Zaman zaman farklı projeler yayınlayacağım.
 
+### Project Log
+
+```bash
+zaman zaman yenilikler olunca buraya yazacağım.
+```
+
+
 ## Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
 * The theme is available as open source under the terms of the [MIT License](https://github.com/Jyros/jyross-bots/blob/main/LICENSE)
 
