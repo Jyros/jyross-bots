@@ -34,6 +34,9 @@ A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
 ### Q: src/base/${file.random()} dosyasındaki yerlere ne yazacağımı bilmiyorum Ne yapmalıyım?
 A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
 
+### Q: Zaman zaman projeye yenilikler gelecek mi?
+A: İsteğe göre gelecek :)
+
 ### Q: Bu projeyi neden paylaştın?
 A: Bot yazmayı artık bırakıyorum. Fakat Github ile işim bitmedi. Bu Projedeki geriye kalan botları da paylaşacağım. 
 
