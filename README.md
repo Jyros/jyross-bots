@@ -24,7 +24,21 @@ npm i
 node jyros.js
 ```
 
-### Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
+### FAQ
+
+# Q: Hata ile karşılaştım. Ne yapmalıyım?
+A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
+
+# Q: src/base/${file.random()} dosyasındaki yerlere ne yazacağımı bilmiyorum Ne yapmalıyım?
+A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
+
+# Q: Bu projeyi neden paylaştın?
+A: Bot yazmayı artık bırakıyorum. Fakat Github ile işim bitmedi. Bu Projedeki geriye kalan botları da paylaşacağım. 
+
+# Q: Daha proje paylaşmayacak mısın?
+A: Zaman zaman farklı projeler yayınlayacağım.
+
+## Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
 * The theme is available as open source under the terms of the [MIT License](https://github.com/Jyros/jyross-bots/blob/main/LICENSE)
 
 
