@@ -2,7 +2,7 @@
 
 ## Explanation
 
-Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup]() kısmına göz atın.Bu Proje; kod bilgisi olanlar için geliştirilmeye hazır bir projedir. Hata durumunda bana ulaşabilirsiniz! [Tıkla.](https://github.com/Jyros/jyross-bots/blob/main/README.md#jyross)
+Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup](https://github.com/Jyros/jyross-bots/blob/main/README.md#setup) kısmına göz atın.Bu Proje; kod bilgisi olanlar için geliştirilmeye hazır bir projedir. Hata durumunda bana ulaşabilirsiniz! [Tıkla.](https://github.com/Jyros/jyross-bots/blob/main/README.md#jyross)
 
 [ÖNEMLİ!](https://github.com/Jyros/jyross-bots/blob/main/README.md#q-bu-projeyi-neden-payla%C5%9Ft%C4%B1n)
 
