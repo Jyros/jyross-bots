@@ -1,14 +1,36 @@
 # Jyros | Gelişmiş Discord Botları
 
-Moderation:
+## Explanation
 
-* Hata Kodları
-* Yeni Gelişmiş Komutlar
-* Normal Komutlar (Gelişmiş)
-* Yenilenen Database Sistemi
-* Daha Fazlası...
+Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup]() kısmına göz atın.Bu Proje; kod bilgisi olanlar için geliştirilmeye hazır bir projedir.
 
-daha fazla açıklama yapmam için biraz zaman ver.
+## Features
+
+* Hata Kodu Sistemi!
+* Yeni Gelişmiş Komutlar!
+* Tek Dosyada Tüm Veriler!
+* Ve Daha Fazlası...
+
+## Setup
+
+Kendinize göre düzenleyeceğiniz dosyalar:
+
+* src/commands/ekipsay.js
+* src/commands/yetkiver.js
+
+
+
+* `src/base/` klasörünün içindeki dosyaları __eksiksiz__ şekilde doldur!
+* ve terminale sihirli kelimeleri yaz!
+
+```bash
+npm i
+node jyros.js
+```
+
+### Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
+* The theme is available as open source under the terms of the [MIT License](https://github.com/Jyros/jyross-bots/blob/main/LICENSE)
+
 
 ## Jyross
 
