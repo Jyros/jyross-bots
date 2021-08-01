@@ -13,12 +13,9 @@ Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup](
 
 ## Setup
 
-Kendinize göre düzenleyeceğiniz dosyalar:
-
- src/commands/ekipsay.js
- src/commands/yetkiver.js
 
 
+* `src/commands/` klasöründeki `ekipsay.js` ve `yetkiver.js``dosyalarını kendine göre düzelt!
 * `src/base/` klasörünün içindeki dosyaları __eksiksiz__ şekilde doldur!
 * ve terminale sihirli kelimeleri yaz!
 
