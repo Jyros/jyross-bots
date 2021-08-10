@@ -1,5 +1,8 @@
 # Jyros | Gelişmiş Discord Botları
 
+## YAKINDA YENİ VERSİYONU GELİYORRR
+[!resim](https://cdn.discordapp.com/attachments/811590672318070794/874781242518827008/unknown.png)
+
 ## Explanation
 
 Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup](https://github.com/Jyros/jyross-bots/blob/main/README.md#setup) kısmına göz atın.Bu Proje; kod bilgisi olanlar için geliştirilmeye hazır bir projedir. Hata durumunda bana ulaşabilirsiniz! [Tıkla.](https://github.com/Jyros/jyross-bots/blob/main/README.md#jyross)
