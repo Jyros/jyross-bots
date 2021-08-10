@@ -1,7 +1,6 @@
 # Jyros | Gelişmiş Discord Botları
 
 ## YAKINDA YENİ VERSİYONU GELİYORRR
-[!resim](https://cdn.discordapp.com/attachments/811590672318070794/874781242518827008/unknown.png)
 
 ## Explanation
 
