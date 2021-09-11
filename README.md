@@ -4,59 +4,6 @@
 
 * ![images1](https://cdn.discordapp.com/attachments/811590672318070794/874781242518827008/unknown.png)
 
-## Explanation
-
-Selam! Sizin için kendi Discord botumu yayınladım. Kullanmadan önce [Setup](https://github.com/Jyros/jyross-bots/blob/main/README.md#setup) kısmına göz atın.Bu Proje; kod bilgisi olanlar için geliştirilmeye hazır bir projedir. Hata durumunda bana ulaşabilirsiniz! [Tıkla.](https://github.com/Jyros/jyross-bots/blob/main/README.md#jyross)
-
-[ÖNEMLİ!](https://github.com/Jyros/jyross-bots/blob/main/README.md#q-bu-projeyi-neden-payla%C5%9Ft%C4%B1n)
-
-## Features
-
-* Hata Kodu Sistemi!
-* Yeni Gelişmiş Komutlar!
-* Tek Dosyada Tüm Veriler!
-* Ve Daha Fazlası...
-
-## Setup
-
-
-
-* `src/commands/` klasöründeki `ekipsay.js` ve `yetkiver.js`dosyalarını kendine göre düzelt!
-* `src/base/` klasörünün içindeki dosyaları __eksiksiz__ şekilde doldur!
-* ve terminale sihirli kelimeleri yaz!
-
-```bash
-npm i
-node jyros.js
-```
-
-# FAQ
-
-### Q: Hata ile karşılaştım. Ne yapmalıyım?
-A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
-
-### Q: src/base/${file.random()} dosyasındaki yerlere ne yazacağımı bilmiyorum Ne yapmalıyım?
-A: Bana Ulaşabilirsin. [Tıkla.](https://github.com/Jyros/jyross-bots#jyross)
-
-### Q: Zaman zaman projeye yenilikler gelecek mi?
-A: İsteğe göre gelecek :)
-
-### Q: Bu projeyi neden paylaştın?
-A: Bot yazmayı artık bırakıyorum. Fakat Github ile işim bitmedi. Bu Projedeki geriye kalan botları da paylaşacağım. 
-
-### Q: Daha proje paylaşmayacak mısın?
-A: Zaman zaman farklı projeler yayınlayacağım.
-
-### Project Log
-
-```bash
-zaman zaman yenilikler olunca buraya yazacağım.
-```
-
-
-## Projede MIT Lisansı bulunmaktadır. Proje sahibinin haberi olmadan paylaşılması/satılması yasaktır! 
-* The theme is available as open source under the terms of the [MIT License](https://github.com/Jyros/jyross-bots/blob/main/LICENSE)
-
 
 ## Jyross
 
