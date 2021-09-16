@@ -1,6 +1,5 @@
-# Jyros | Gelişmiş Discord Botları
-
-## YAKINDA YENİ VERSİYONU GELİYORRR
+## Yeni Versiyonu Buradan Paylaşılacak. 
+#### Botların tam halini satın alabilmek için Instagram veya Discord'tan ulaşın.
 
 * ![images1](https://cdn.discordapp.com/attachments/811590672318070794/874781242518827008/unknown.png)
 
